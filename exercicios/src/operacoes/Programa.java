@@ -1,6 +1,8 @@
+package operacoes;
+
 import java.util.Scanner;
 
-public class Operacoes {
+public class Programa {
     public static void main(String[] args) {
         float x, y;
 

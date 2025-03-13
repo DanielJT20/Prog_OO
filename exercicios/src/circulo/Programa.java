@@ -1,6 +1,8 @@
+package circulo;
+
 import java.util.Scanner;
 
-public class Raio {
+public class Programa {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         double perimetro, raio, area;
