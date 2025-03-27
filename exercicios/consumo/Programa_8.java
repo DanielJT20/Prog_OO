@@ -5,9 +5,9 @@ import javax.swing.*;
 public class Programa_8 {
     public static void main(String[] args) {
 
-        float kilowatts = Integer.parseInt(JOptionPane.showInputDialog(null, "Insira a consumo de energia em Kilowatts"));
+        float kilowatts = Float.parseFloat(JOptionPane.showInputDialog(null, "Insira a consumo de energia em Kilowatts"));
 
-        float valor = Integer.parseInt(JOptionPane.showInputDialog(null, "Insira o valor do Kw/h"));
+        float valor = Float.parseFloat(JOptionPane.showInputDialog(null, "Insira o valor do Kw/h"));
 
         float custoReal = (kilowatts*valor);
         float desconto = (custoReal/10);

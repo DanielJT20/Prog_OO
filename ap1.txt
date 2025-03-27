@@ -1,0 +1,15 @@
+Tópicos para a AP1
+
+- Questão de múltipla escolha sobre as características da linguagem Java (incluindo tipagem, case-sensitive);
+- Justifique o slogan de Java: "Write once, run everywhere". (processo de compilação e interpretação de código Java, JVM, bytecode)
+- Método main()
+- Tipos de dados em Java (múltipla escolha)
+- Identificadores ("Assinale a opção na qual todos os identificadores estão atribuídos corretamente");
+	- atributos (camel case): NOvoNOme, novoNome, NovoNome, nOVOnOME, NOVONOME, _novoNome, $novoNome, 1novoNome, novoNome1;
+- declaração de atributos (com os tipos de dados adequados);
+- como declarar constantes;
+- operadores (atribuição, aritméticos, incremento e decremento, relacionais, lógicos e condicionais)
+- abstrações da OO (classe e objeto)
+- código!!!
+
+
