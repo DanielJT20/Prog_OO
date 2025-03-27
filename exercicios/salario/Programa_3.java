@@ -1,8 +1,8 @@
-package salario;
+package exercicios.salario;
 
 import java.util.Scanner;
 
-public class Programa {
+public class Programa_3 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Informe seu salário: ");

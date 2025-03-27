@@ -1,8 +1,8 @@
-package circulo;
+package exercicios.circulo;
 
 import java.util.Scanner;
 
-public class Programa {
+public class Programa_4 {
     public static void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);

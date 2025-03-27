@@ -1,6 +1,8 @@
+package exercicios.tempo;
+
 import javax.swing.*;
 
-public class Programa {
+public class Programa_5 {
     public static void main(String[] args) {
         int t  = Integer.parseInt(JOptionPane.showInputDialog("Insira o tempo em segundos"));
         int minutos = t/60;

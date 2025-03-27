@@ -1,6 +1,7 @@
+package exercicios.distancia;
 import javax.swing.*;
 
-public class Programa {
+public class Programa_6 {
     public static void main(String[] args) {
         int distancia = Integer.parseInt(JOptionPane.showInputDialog("Qual a distancia rodada?"));
         int tempo = Integer.parseInt(JOptionPane.showInputDialog("Qual tempo rodado?"));
